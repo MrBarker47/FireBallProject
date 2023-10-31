@@ -171,6 +171,24 @@ body {
   background-color: blanchedalmond;
 }
 
+.navbar {
+  justify-content: end;
+}
+
+
+
+ul {
+  display: flex;
+  flex-direction: row;
+  margin-right: 2px;
+  list-style: none;
+}
+
+li {
+  margin: 4px;
+  
+}
+
 /* ==========================
      Search Box
      ========================== */
